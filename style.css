@@ -1,0 +1,15 @@
+body {
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+  background: #f8f9fa;
+}
+h1 {
+  color: #333;
+}
+.card {
+  max-width: 600px;
+  margin: auto;
+  border-radius: 10px;
+}
+textarea {
+  resize: none;
+}
